@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/313/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/222/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/Connection.java
+END
+Select.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/222/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/Select.java
+END
+ScalarCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/204/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/ScalarCallback.java
+END
+Update.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/222/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/Update.java
+END
+ListCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/204/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/ListCallback.java
+END
+DataServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/247/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/DataServiceException.java
+END
+DataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/222/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/DataService.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/204/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/Callback.java
+END
+RowIdListCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/204/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/RowIdListCallback.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/289/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/package.html
+END
+VoidCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/204/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/VoidCallback.java
+END

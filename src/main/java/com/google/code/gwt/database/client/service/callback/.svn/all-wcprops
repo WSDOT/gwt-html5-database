@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/313/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/callback
+END
+DataServiceStatementCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/230/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/callback/DataServiceStatementCallback.java
+END
+DataServiceTransactionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/230/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/client/service/callback/DataServiceTransactionCallback.java
+END

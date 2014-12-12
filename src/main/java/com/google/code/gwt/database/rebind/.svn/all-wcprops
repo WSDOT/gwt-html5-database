@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/235/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind
+END
+ServiceMethodCreatorRowIdListCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/230/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/ServiceMethodCreatorRowIdListCallback.java
+END
+ServiceMethodCreatorVoidCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/230/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/ServiceMethodCreatorVoidCallback.java
+END
+ServiceMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/235/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/ServiceMethodCreator.java
+END
+SqlProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/230/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/SqlProxyCreator.java
+END
+DataServiceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/222/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/DataServiceGenerator.java
+END
+ServiceMethodCreatorScalarCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/235/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/ServiceMethodCreatorScalarCallback.java
+END
+GeneratorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/235/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/GeneratorUtils.java
+END
+ServiceMethodCreatorListCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/230/trunk/gwt-mobile-webkit/database/database/src/com/google/code/gwt/database/rebind/ServiceMethodCreatorListCallback.java
+END
