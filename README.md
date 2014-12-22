@@ -4,4 +4,4 @@
 
 ###Features
 
-* Compatible with GWT 2.6.1.
+* Compatible with GWT 2.7.0.
